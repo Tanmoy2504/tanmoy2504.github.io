@@ -2593,7 +2593,7 @@
 		}
 
 	.split > :nth-child(even) {
-		border-left-color: rgba(144, 144, 144, 0.25);
+		border-left-color: rgba(232, 232, 232, 0.15);
 	}
 
 /* Spotlight */
